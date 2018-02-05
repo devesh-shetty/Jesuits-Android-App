@@ -30,7 +30,7 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
-                    android:src="@drawable/ic_bible"
+                    android:src="@drawable/ic_constitutions"
                     android:layout_weight="3"
                     android:layout_margin="20dp"/>
 
@@ -104,7 +104,7 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
-                    android:src="@drawable/ic_holy_cross"
+                    android:src="@drawable/ic_spiritual"
                     android:layout_weight="3"
                     android:layout_margin="20dp"/>
 
@@ -137,7 +137,7 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
-                    android:src="@drawable/ic_saint_patrick"
+                    android:src="@drawable/ic_jesuit_saints"
                     android:layout_weight="3"
                     android:layout_margin="20dp"/>
 
